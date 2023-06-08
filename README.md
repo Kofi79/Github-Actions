@@ -1,6 +1,8 @@
 # gh-abcs-actions
 > The GitHub ABCs actions training with workflow templates, examples, hands-on labs and additional learning resources.
 
+I needed to make some chnages///
+
 ## Examples & Hands-on Labs
 
 ### Hands-on Labs Setup
@@ -44,6 +46,7 @@
 - Repo: [github-actions-for-packages](https://github.com/CalinL/github-actions-for-packages)
 - Repo: [github-actions-for-ci](https://github.com/CalinL/github-actions-for-ci)
 - [ ] _Hands-on Lab:_ :point_right: [Activity 7](/labs/lab07.md)
+
 
 ---
 
